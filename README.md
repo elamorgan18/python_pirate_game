@@ -1,4 +1,4 @@
-# My Python Pirate SHip Game
+# My Python Pirate Ship Game
 
 The game is played from the command line.
 
